@@ -22,11 +22,6 @@ PEScanner.exe <path_to_pe_file> [-w output_file.txt]
 <img src="1.png" width="700">
 <img src="2.png" width="700">
 
-## 📓 Notes:
-```
-This is a beta version. There might be bugs and errors. Please report any issues on the GitHub Issues page.
-```
-
 ## Author:
 ```
 Developed by k3rnel-dev.
